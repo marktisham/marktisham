@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Mark Isham
 
-<!--
-**marktisham/marktisham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm a seasoned engineering executive with endless curiosity and a love for tinkering. Lately I've been diving deep into agentic AI, check out my open source projects below.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/mtisham/"><img src="https://img.shields.io/badge/LinkedIn-About%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/playlist?list=PLFIgJytZ9IRefkI1bLnc9Tv7SNxLsKp1b"><img src="https://img.shields.io/badge/YouTube-All%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<table>
+<tr>
+<td width="160" align="center">
+<a href="https://github.com/marktisham/LumosTrade">
+<img src="https://raw.githubusercontent.com/marktisham/LumosTrade/main/docs/images/Lumos%20Trading.png" width="140" alt="LumosTrade" />
+</a>
+</td>
+<td>
+<h3><a href="https://github.com/marktisham/LumosTrade">LumosTrade</a></h3>
+<p>Trade visualization and analysis platform with AI-assisted workflows. Analyze performance across brokers, deep trade analytics, portfolio context, and AI chat/reporting — self-hosted on Google Cloud.</p>
+<a href="https://www.youtube.com/playlist?list=PLFIgJytZ9IRceh-fO-vsr0ZJqcekVVryz"><img src="https://img.shields.io/badge/YouTube-Watch%20Playlist-FF0000?logo=youtube&style=flat-square" alt="Watch Playlist"></a>
+</td>
+</tr>
+<tr>
+<td width="160" align="center">
+<a href="https://github.com/marktisham/GraphReel">
+<img src="https://raw.githubusercontent.com/marktisham/GraphReel/main/docs/Hero.png" width="140" alt="GraphReel" />
+</a>
+</td>
+<td>
+<h3><a href="https://github.com/marktisham/GraphReel">GraphReel</a></h3>
+<p>Turn Google Drive files into explainer videos. Paste Drive URLs, the LangGraph pipeline extracts and summarizes content in parallel, then synthesizes narrative briefings and short videos with AI imagery, TTS audio, and dynamic overlays.</p>
+<a href="https://youtu.be/TgqVSOuwy8M"><img src="https://img.shields.io/badge/YouTube-Watch%20Demo-FF0000?logo=youtube&style=flat-square" alt="Watch Demo"></a>
+</td>
+</tr>
+<tr>
+<td width="160" align="center">
+<a href="https://github.com/marktisham/PromptSieve">
+<img src="https://raw.githubusercontent.com/marktisham/PromptSieve/main/docs/PromptSieve.png" width="140" alt="PromptSieve" />
+</a>
+</td>
+<td>
+<h3><a href="https://github.com/marktisham/PromptSieve">PromptSieve</a></h3>
+<p>Interactive demo of LLM prompt attack scenarios and defense strategies. Covers prompt injection, cross-tenant exfiltration, destructive SQL, and more — with layered defenses including Google Model Armor, LLM evaluators, and secure function calling.</p>
+<a href="https://youtu.be/93-KzFBjVAU"><img src="https://img.shields.io/badge/YouTube-Watch%20Demo-FF0000?logo=youtube&style=flat-square" alt="Watch Demo"></a>
+</td>
+</tr>
+</table>
