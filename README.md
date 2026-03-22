@@ -4,6 +4,14 @@
 
 <a href="https://www.linkedin.com/in/mtisham/"><img src="https://img.shields.io/badge/LinkedIn-About%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/playlist?list=PLFIgJytZ9IRefkI1bLnc9Tv7SNxLsKp1b"><img src="https://img.shields.io/badge/YouTube-All%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist"></a>
 
+
+> 🚀 **My Professional AI Agent**
+>
+> Want to learn more about me or my projects? Ask my AI agent!
+>
+> [👉 Visit markisham.me](https://markisham.me)
+>
+
 ---
 
 <table>
