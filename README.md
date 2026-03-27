@@ -51,4 +51,17 @@
 <a href="https://youtu.be/93-KzFBjVAU"><img src="https://img.shields.io/badge/YouTube-Watch%20Demo-FF0000?logo=youtube&style=flat-square" alt="Watch Demo"></a>
 </td>
 </tr>
+<tr>
+<td width="160" align="center">
+<a href="https://github.com/marktisham/MarkClaw">
+<img src="https://raw.githubusercontent.com/marktisham/MarkClaw/main/MarkClaw.png" width="140" alt="MarkClaw" />
+</a>
+</td>
+<td>
+<h3><a href="https://github.com/marktisham/MarkClaw">MarkClaw</a></h3>
+<p>Tutorials, utilities and videos for using OpenClaw securely on a private Google Cloud VM.</p>
+<a href="https://youtu.be/0sq7zmLj46g"><img src="https://img.shields.io/badge/YouTube-VM%20Setup-FF0000?logo=youtube&style=flat-square" alt="VM Setup Video"></a>
+<a href="https://youtu.be/q_G_Sdoeodc"><img src="https://img.shields.io/badge/YouTube-Twitter%20Stock%20News%20Skill-FF0000?logo=youtube&style=flat-square" alt="Twitter Stock News Skill Video"></a>
+</td>
+</tr>
 </table>
