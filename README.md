@@ -64,4 +64,16 @@
 <a href="https://youtu.be/q_G_Sdoeodc"><img src="https://img.shields.io/badge/YouTube-Twitter%20Stock%20News%20Skill-FF0000?logo=youtube&style=flat-square" alt="Twitter Stock News Skill Video"></a>
 </td>
 </tr>
+<tr>
+<td width="160" align="center">
+<a href="https://github.com/marktisham/OpenClone">
+<img src="https://raw.githubusercontent.com/marktisham/OpenClone/main/OpenClone.png" width="140" alt="OpenClone" />
+</a>
+</td>
+<td>
+<h3><a href="https://github.com/marktisham/OpenClone">OpenClone</a></h3>
+<p>Tutorial demonstrating using OpenCode to spawn cloned coding agents on headless server VMs to dispatch async work on Google Cloud.</p>
+<a href="https://www.youtube.com/watch?v=SIuIzFvFnuY"><img src="https://img.shields.io/badge/YouTube-Watch%20Demo-FF0000?logo=youtube&style=flat-square" alt="Watch Demo"></a>
+</td>
+</tr>
 </table>
